@@ -21,6 +21,7 @@ h1 { text-align: center; padding: 0.5em; }
 #buscafecha [type=text]  { text-align: center; }
 #buscafecha  [type=button] { cursor: pointer; }
 /cabecera del calendario/ 
+/add cs:go
 #anterior { float: left; width: 100px; font: bold 12pt arial;
           padding: 0.5em 0.1em; cursor: pointer ; }
 #posterior { float: right; width: 100px; font: bold 12pt arial; 
